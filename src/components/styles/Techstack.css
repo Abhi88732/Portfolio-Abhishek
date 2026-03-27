@@ -1,0 +1,13 @@
+.techstack {
+  height: 100vh;
+}
+
+.tech-canvas {
+  width: 100%;
+  height: 500px;
+}
+@media (max-width: 768px) {
+  .tech-canvas {
+    height: 300px;
+  }
+}
